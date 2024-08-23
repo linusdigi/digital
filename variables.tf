@@ -1,5 +1,5 @@
 variable "name" {
-  description = "VPC name."
+  description = "VPC DIGI name."
   type        = string
 }
 
